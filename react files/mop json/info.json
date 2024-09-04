@@ -1,0 +1,22 @@
+[
+    {
+      "name":"NAME",
+      "place":"PLACE",
+      "age":"AGE"
+    },
+    {
+      "name":"shahin",
+      "place":"hyd",
+      "age":"24"
+    },
+    {
+      "name":"sham",
+      "place":"pvl",
+      "age":"26"
+    },
+    {
+      "name":"sunia",
+      "place":"bjp",
+      "age":"28"
+    }
+  ]

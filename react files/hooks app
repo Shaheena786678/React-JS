@@ -1,0 +1,14 @@
+import React from 'react'
+import { useState } from 'react';
+export default function App(){
+  const[state,setState]=useState("pvl")
+  const[name,setName]=useState("shannu")
+  return(
+    <>
+    <h2>hello</h2>
+    <h2>haii</h2>
+    <h1>{state}</h1>
+    <h1>{name}</h1>
+    </>
+  )
+}
